@@ -1,5 +1,11 @@
 # flutter_ClubHouse
 
+可以的话，大家可否点个Star
+
+> 在码农的世界里，优美的应用体验，来源于程序员对细节的处理以及自我要求的境界，年轻人也是忙忙碌碌的码农中一员，每天、每周，都会留下一些脚印，就是这些创作的内容，有一种执着，就是不知为什么，如果你迷茫，不妨来瞅瞅码农的轨迹。
+
+
+
 课程安排
 
 每日一更，
@@ -16,9 +22,15 @@ github地址[https://github.com/ITmxs/ClubHouse](https://github.com/ITmxs/ClubHo
 
 视频订阅地址哔哩哔哩：[https://space.bilibili.com/480883651](https://space.bilibili.com/480883651)
 
-## Flutter实战之（Clubhouse App第1部分）
+## 2021.2.23日Flutter实战之（Clubhouse App第1部分）
 
 [https://www.bilibili.com/video/BV1vy4y1J7G3](https://www.bilibili.com/video/BV1vy4y1J7G3)
+
+## 2021.2.24日Flutter实战之（Clubhouse App第2部分）
+
+
+
+
 
 
 

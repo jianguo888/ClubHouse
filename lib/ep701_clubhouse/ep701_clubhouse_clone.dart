@@ -7,6 +7,7 @@ class ClubhouseClone extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
+      //在这儿可以做一些个性化设置
       theme: ThemeData.light().copyWith(
         scaffoldBackgroundColor: ClubhouseStyle.appBackgroundColor,
       ),
