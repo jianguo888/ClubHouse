@@ -10,13 +10,17 @@
 
 “Clubhouse”（俱乐部会馆）的音频聊天应用程序日前火了。这款社交软件的功能相对单一或者说“独特”：一群人线上通话，另一群人听。不过，Clubhouse聊天内容不受限，而且只能受邀才能加入，因此备受职业人士和精英阶层的追捧。有媒体称，它是将现实世界的精英主义搬到了虚拟世界。于是，借此契机，个人打算用flutter开发一款类似聊天软件，欢迎大家关注，一键三连。
 
-github地址https://github.com/ITmxs/ClubHouse
+github地址[https://github.com/ITmxs/ClubHouse](https://github.com/ITmxs/ClubHouse)
 
 # 订阅地址
 
 视频订阅地址哔哩哔哩：[https://space.bilibili.com/480883651](https://space.bilibili.com/480883651)
 
-https://www.youtube.com/watch?v=i3kRFC-zJcI
+## Flutter实战之（Clubhouse App第1部分）
+
+[https://www.bilibili.com/video/BV1vy4y1J7G3](https://www.bilibili.com/video/BV1vy4y1J7G3)
+
+
 
 # 作者介绍
 
@@ -36,7 +40,7 @@ CSDN:[https://blog.csdn.net/qq_39132095](https://blog.csdn.net/qq_39132095?spm=1
 
 掘金：[https://juejin.cn/user/3843548384077192](https://juejin.cn/user/3843548384077192)
 
-GitHub：https://github.com/ITmxs
+GitHub：[https://github.com/ITmxs](https://github.com/ITmxs)
 
 微信：xjg13690
 
