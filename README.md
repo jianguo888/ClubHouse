@@ -28,8 +28,10 @@ github地址[https://github.com/ITmxs/ClubHouse](https://github.com/ITmxs/ClubHo
 
 ## 2021.2.24日Flutter实战之（Clubhouse App第2部分）
 
+https://www.bilibili.com/video/BV13N41197Jd
+## 2021.2.24日Flutter实战之（Clubhouse App第3部分）
 
-
+https://www.bilibili.com/video/BV1jh411k7TD
 
 
 
